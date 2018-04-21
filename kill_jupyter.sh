@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-docker kill jupyter
-docker rm jupyter
+docker kill deeplearning
+docker rm deeplearning
